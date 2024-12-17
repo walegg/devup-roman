@@ -45,7 +45,7 @@ Once you validate all your tasks, the contract is considered completed.
 ### Onboarding
 
 1. Your Freelancer account analytics and profile information ✅
-2. Signup to https://okupdate.dev with my invitation link (to be sent) ⏳
+2. Signup to https://okupdate.dev with my invitation link (to be sent) ✅
 3. Select Dev and provide your Github username (if not signing up with Github) ✅
 4. Complete Quickstart page ⏳
 
